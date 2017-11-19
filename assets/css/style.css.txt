@@ -1,0 +1,46 @@
+@charset="UTF-8";
+
+.p{
+	text-align: justify;
+	text-indent: 50PX;
+	}
+
+.body {
+	background-color: white;
+	color: rgba(0,0,0,1);
+	}
+
+.cabecalho{
+	margin-top: 30%
+	height: 100px;
+	padding-left: 15px;
+  	padding-right: 15px;
+  	border-radius: 20px;
+  	border: 1px solid black;
+  	cursor: pointer;
+
+}
+
+.texto {
+font-style: justify;
+
+}
+/*formatacao das imagens*/
+
+.figure.foto-Legenda{ 
+
+	border: 8px solid white;
+	box-shadow:  1px 1px 4px black;
+}
+
+figure.foto-legenda img{
+	width: 100%;
+	height: 100%;
+}
+
+nav#menu ul{
+	
+	list-style: none;
+	text-transform: uppercase;
+
+}
